@@ -11,6 +11,10 @@
         <link rel="canonical" href="https://docs.pqcodepackage.org/latest/main/implementations/mlkem-libjade/">
       
       
+        <link rel="prev" href="../mlkem-c-aarch64/">
+      
+      
+        <link rel="next" href="../mlkem-rust-libcrux/">
       
       
       <link rel="icon" href="../../assets/project-icon.png">
@@ -18,7 +22,7 @@
     
     
       
-        <title>Mlkem libjade - PQ Code Package</title>
+        <title>ML-KEM libjade (jasmin) - PQ Code Package</title>
       
     
     
@@ -126,7 +130,7 @@
         <div class="md-header__topic" data-md-component="header-topic">
           <span class="md-ellipsis">
             
-              Mlkem libjade
+              ML-KEM libjade (jasmin)
             
           </span>
         </div>
@@ -246,10 +250,30 @@
     
     
       <li class="md-tabs__item">
-        <a href="../../concepts/concept-1/" class="md-tabs__link">
+        <a href="../../overview/pqca/" class="md-tabs__link">
           
   
-  Concepts
+  Overview
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+    
+  
+  
+    
+    
+      <li class="md-tabs__item md-tabs__item--active">
+        <a href="../" class="md-tabs__link">
+          
+  
+  Algorithm Implementations
 
         </a>
       </li>
@@ -264,79 +288,7 @@
     
     
       <li class="md-tabs__item">
-        <a href="../../getting-started/installation/" class="md-tabs__link">
-          
-  
-  Getting Started
-
-        </a>
-      </li>
-    
-  
-
-      
-        
-  
-  
-  
-    
-    
-      <li class="md-tabs__item">
-        <a href="../../tutorials/" class="md-tabs__link">
-          
-  
-  Tutorials
-
-        </a>
-      </li>
-    
-  
-
-      
-        
-  
-  
-  
-    
-    
-      <li class="md-tabs__item">
-        <a href="../../guides/operations/" class="md-tabs__link">
-          
-  
-  Guides
-
-        </a>
-      </li>
-    
-  
-
-      
-        
-  
-  
-  
-    
-    
-      <li class="md-tabs__item">
-        <a href="../../references/architecture/" class="md-tabs__link">
-          
-  
-  References
-
-        </a>
-      </li>
-    
-  
-
-      
-        
-  
-  
-  
-    
-    
-      <li class="md-tabs__item">
-        <a href="../../contributing/how-to-contribute/" class="md-tabs__link">
+        <a href="../../contributing/charter/" class="md-tabs__link">
           
   
   Contributing
@@ -479,7 +431,7 @@
             
   
   <span class="md-ellipsis">
-    Concepts
+    Overview
   </span>
   
 
@@ -489,7 +441,7 @@
         <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_2_label" aria-expanded="false">
           <label class="md-nav__title" for="__nav_2">
             <span class="md-nav__icon md-icon"></span>
-            Concepts
+            Overview
           </label>
           <ul class="md-nav__list" data-md-scrollfix>
             
@@ -500,11 +452,11 @@
   
   
     <li class="md-nav__item">
-      <a href="../../concepts/concept-1/" class="md-nav__link">
+      <a href="../../overview/pqca/" class="md-nav__link">
         
   
   <span class="md-ellipsis">
-    Concept 1
+    About the PQCA
   </span>
   
 
@@ -521,11 +473,11 @@
   
   
     <li class="md-nav__item">
-      <a href="../../concepts/concept-2/" class="md-nav__link">
+      <a href="../../overview/purpose/" class="md-nav__link">
         
   
   <span class="md-ellipsis">
-    Concept 2
+    Purpose of pq-code-package
   </span>
   
 
@@ -542,11 +494,32 @@
   
   
     <li class="md-nav__item">
-      <a href="../../concepts/concept-3/" class="md-nav__link">
+      <a href="../../overview/mlkem/" class="md-nav__link">
         
   
   <span class="md-ellipsis">
-    Concept 3
+    Background to ML-KEM
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../overview/choosing-implementation/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Choosing an implementation
   </span>
   
 
@@ -567,39 +540,42 @@
       
   
   
+    
   
   
+  
     
     
     
-      
-      
-    
-    
-    <li class="md-nav__item md-nav__item--nested">
       
         
+        
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--active md-nav__item--section md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_3" checked>
         
           
-        
-        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_3" >
-        
-          
-          <label class="md-nav__link" for="__nav_3" id="__nav_3_label" tabindex="0">
+          <label class="md-nav__link" for="__nav_3" id="__nav_3_label" tabindex="">
             
   
   <span class="md-ellipsis">
-    Getting Started
+    Algorithm Implementations
   </span>
   
 
             <span class="md-nav__icon md-icon"></span>
           </label>
         
-        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_3_label" aria-expanded="false">
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_3_label" aria-expanded="true">
           <label class="md-nav__title" for="__nav_3">
             <span class="md-nav__icon md-icon"></span>
-            Getting Started
+            Algorithm Implementations
           </label>
           <ul class="md-nav__list" data-md-scrollfix>
             
@@ -610,11 +586,11 @@
   
   
     <li class="md-nav__item">
-      <a href="../../getting-started/installation/" class="md-nav__link">
+      <a href="../" class="md-nav__link">
         
   
   <span class="md-ellipsis">
-    Installation
+    List of algorithms and characteristics
   </span>
   
 
@@ -631,11 +607,103 @@
   
   
     <li class="md-nav__item">
-      <a href="../../getting-started/running/" class="md-nav__link">
+      <a href="../mlkem-c-generic/" class="md-nav__link">
         
   
   <span class="md-ellipsis">
-    Running
+    ML-KEM generic C implementation
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../mlkem-c-embedded/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    ML-KEM optimized C (embedded)
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../mlkem-c-aarch64/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    ML-KEM optimized C (aarch64)
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+    
+  
+  
+  
+    <li class="md-nav__item md-nav__item--active">
+      
+      <input class="md-nav__toggle md-toggle" type="checkbox" id="__toc">
+      
+      
+      
+      <a href="./" class="md-nav__link md-nav__link--active">
+        
+  
+  <span class="md-ellipsis">
+    ML-KEM libjade (jasmin)
+  </span>
+  
+
+      </a>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../mlkem-rust-libcrux/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    ML-KEM libcrux (rust)
   </span>
   
 
@@ -678,7 +746,7 @@
             
   
   <span class="md-ellipsis">
-    Tutorials
+    Contributing
   </span>
   
 
@@ -688,360 +756,51 @@
         <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_4_label" aria-expanded="false">
           <label class="md-nav__title" for="__nav_4">
             <span class="md-nav__icon md-icon"></span>
-            Tutorials
-          </label>
-          <ul class="md-nav__list" data-md-scrollfix>
-            
-              
-                
-  
-  
-  
-  
-    <li class="md-nav__item">
-      <a href="../../tutorials/" class="md-nav__link">
-        
-  
-  <span class="md-ellipsis">
-    Introduction
-  </span>
-  
-
-      </a>
-    </li>
-  
-
-              
-            
-              
-                
-  
-  
-  
-  
-    <li class="md-nav__item">
-      <a href="../../tutorials/tutorial-1/" class="md-nav__link">
-        
-  
-  <span class="md-ellipsis">
-    Tutorial 1
-  </span>
-  
-
-      </a>
-    </li>
-  
-
-              
-            
-              
-                
-  
-  
-  
-  
-    <li class="md-nav__item">
-      <a href="../../tutorials/tutorial-2/" class="md-nav__link">
-        
-  
-  <span class="md-ellipsis">
-    Tutorial 2
-  </span>
-  
-
-      </a>
-    </li>
-  
-
-              
-            
-              
-                
-  
-  
-  
-  
-    <li class="md-nav__item">
-      <a href="../../tutorials/tutorial-3/" class="md-nav__link">
-        
-  
-  <span class="md-ellipsis">
-    Tutorial 3
-  </span>
-  
-
-      </a>
-    </li>
-  
-
-              
-            
-          </ul>
-        </nav>
-      
-    </li>
-  
-
-    
-      
-      
-  
-  
-  
-  
-    
-    
-    
-      
-      
-    
-    
-    <li class="md-nav__item md-nav__item--nested">
-      
-        
-        
-          
-        
-        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_5" >
-        
-          
-          <label class="md-nav__link" for="__nav_5" id="__nav_5_label" tabindex="0">
-            
-  
-  <span class="md-ellipsis">
-    Guides
-  </span>
-  
-
-            <span class="md-nav__icon md-icon"></span>
-          </label>
-        
-        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_5_label" aria-expanded="false">
-          <label class="md-nav__title" for="__nav_5">
-            <span class="md-nav__icon md-icon"></span>
-            Guides
-          </label>
-          <ul class="md-nav__list" data-md-scrollfix>
-            
-              
-                
-  
-  
-  
-  
-    <li class="md-nav__item">
-      <a href="../../guides/operations/" class="md-nav__link">
-        
-  
-  <span class="md-ellipsis">
-    Operations
-  </span>
-  
-
-      </a>
-    </li>
-  
-
-              
-            
-              
-                
-  
-  
-  
-  
-    <li class="md-nav__item">
-      <a href="../../guides/developers/" class="md-nav__link">
-        
-  
-  <span class="md-ellipsis">
-    Developers
-  </span>
-  
-
-      </a>
-    </li>
-  
-
-              
-            
-              
-                
-  
-  
-  
-  
-    <li class="md-nav__item">
-      <a href="../../guides/upgrading/" class="md-nav__link">
-        
-  
-  <span class="md-ellipsis">
-    Upgrading
-  </span>
-  
-
-      </a>
-    </li>
-  
-
-              
-            
-          </ul>
-        </nav>
-      
-    </li>
-  
-
-    
-      
-      
-  
-  
-  
-  
-    
-    
-    
-      
-      
-    
-    
-    <li class="md-nav__item md-nav__item--nested">
-      
-        
-        
-          
-        
-        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_6" >
-        
-          
-          <label class="md-nav__link" for="__nav_6" id="__nav_6_label" tabindex="0">
-            
-  
-  <span class="md-ellipsis">
-    References
-  </span>
-  
-
-            <span class="md-nav__icon md-icon"></span>
-          </label>
-        
-        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_6_label" aria-expanded="false">
-          <label class="md-nav__title" for="__nav_6">
-            <span class="md-nav__icon md-icon"></span>
-            References
-          </label>
-          <ul class="md-nav__list" data-md-scrollfix>
-            
-              
-                
-  
-  
-  
-  
-    <li class="md-nav__item">
-      <a href="../../references/architecture/" class="md-nav__link">
-        
-  
-  <span class="md-ellipsis">
-    Architecture
-  </span>
-  
-
-      </a>
-    </li>
-  
-
-              
-            
-              
-                
-  
-  
-  
-  
-    <li class="md-nav__item">
-      <a href="../../references/commands/" class="md-nav__link">
-        
-  
-  <span class="md-ellipsis">
-    Commands
-  </span>
-  
-
-      </a>
-    </li>
-  
-
-              
-            
-              
-                
-  
-  
-  
-  
-    <li class="md-nav__item">
-      <a href="../../references/roadmap/" class="md-nav__link">
-        
-  
-  <span class="md-ellipsis">
-    Roadmap
-  </span>
-  
-
-      </a>
-    </li>
-  
-
-              
-            
-          </ul>
-        </nav>
-      
-    </li>
-  
-
-    
-      
-      
-  
-  
-  
-  
-    
-    
-    
-      
-      
-    
-    
-    <li class="md-nav__item md-nav__item--nested">
-      
-        
-        
-          
-        
-        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_7" >
-        
-          
-          <label class="md-nav__link" for="__nav_7" id="__nav_7_label" tabindex="0">
-            
-  
-  <span class="md-ellipsis">
-    Contributing
-  </span>
-  
-
-            <span class="md-nav__icon md-icon"></span>
-          </label>
-        
-        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_7_label" aria-expanded="false">
-          <label class="md-nav__title" for="__nav_7">
-            <span class="md-nav__icon md-icon"></span>
             Contributing
           </label>
           <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../contributing/charter/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Charter
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../contributing/code-of-conduct/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Code of Conduct
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
             
               
                 
@@ -1092,6 +851,27 @@
   
   
     <li class="md-nav__item">
+      <a href="../../contributing/reporting-a-security-issue/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Reporting a Security Issue
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
       <a href="../../contributing/requesting-a-change/" class="md-nav__link">
         
   
@@ -1117,7 +897,28 @@
         
   
   <span class="md-ellipsis">
-    Asking a Question
+    Getting Help or Chat
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../contributing/tsc/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Technical Steering Committee
   </span>
   
 
@@ -1192,7 +993,7 @@
   
 
 
-  <h1>Mlkem libjade</h1>
+  <h1>ML-KEM libjade (jasmin)</h1>
 
 <!-- SPDX-License-Identifier: CC-BY-4.0 -->
 
@@ -1227,6 +1028,44 @@
       
         <footer class="md-footer">
   
+    
+      
+      <nav class="md-footer__inner md-grid" aria-label="Footer" >
+        
+          
+          <a href="../mlkem-c-aarch64/" class="md-footer__link md-footer__link--prev" aria-label="Previous: ML-KEM optimized C (aarch64)">
+            <div class="md-footer__button md-icon">
+              
+              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12Z"/></svg>
+            </div>
+            <div class="md-footer__title">
+              <span class="md-footer__direction">
+                Previous
+              </span>
+              <div class="md-ellipsis">
+                ML-KEM optimized C (aarch64)
+              </div>
+            </div>
+          </a>
+        
+        
+          
+          <a href="../mlkem-rust-libcrux/" class="md-footer__link md-footer__link--next" aria-label="Next: ML-KEM libcrux (rust)">
+            <div class="md-footer__title">
+              <span class="md-footer__direction">
+                Next
+              </span>
+              <div class="md-ellipsis">
+                ML-KEM libcrux (rust)
+              </div>
+            </div>
+            <div class="md-footer__button md-icon">
+              
+              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M4 11v2h12l-5.5 5.5 1.42 1.42L19.84 12l-7.92-7.92L10.5 5.5 16 11H4Z"/></svg>
+            </div>
+          </a>
+        
+      </nav>
     
   
   <div class="md-footer-meta md-typeset">

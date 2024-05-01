@@ -16,22 +16,17 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://docs.pqcodepackage.org/latest/main/concepts/concept-1/</loc>
-         <lastmod>2024-05-01</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://docs.pqcodepackage.org/latest/main/concepts/concept-2/</loc>
-         <lastmod>2024-05-01</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://docs.pqcodepackage.org/latest/main/concepts/concept-3/</loc>
-         <lastmod>2024-05-01</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
          <loc>https://docs.pqcodepackage.org/latest/main/contributing/asking-a-question/</loc>
+         <lastmod>2024-05-01</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://docs.pqcodepackage.org/latest/main/contributing/charter/</loc>
+         <lastmod>2024-05-01</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://docs.pqcodepackage.org/latest/main/contributing/code-of-conduct/</loc>
          <lastmod>2024-05-01</lastmod>
          <changefreq>daily</changefreq>
     </url>
@@ -46,32 +41,17 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://docs.pqcodepackage.org/latest/main/contributing/reporting-a-security-issue/</loc>
+         <lastmod>2024-05-01</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://docs.pqcodepackage.org/latest/main/contributing/requesting-a-change/</loc>
          <lastmod>2024-05-01</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://docs.pqcodepackage.org/latest/main/getting-started/installation/</loc>
-         <lastmod>2024-05-01</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://docs.pqcodepackage.org/latest/main/getting-started/running/</loc>
-         <lastmod>2024-05-01</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://docs.pqcodepackage.org/latest/main/guides/developers/</loc>
-         <lastmod>2024-05-01</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://docs.pqcodepackage.org/latest/main/guides/operations/</loc>
-         <lastmod>2024-05-01</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://docs.pqcodepackage.org/latest/main/guides/upgrading/</loc>
+         <loc>https://docs.pqcodepackage.org/latest/main/contributing/tsc/</loc>
          <lastmod>2024-05-01</lastmod>
          <changefreq>daily</changefreq>
     </url>
@@ -106,37 +86,22 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://docs.pqcodepackage.org/latest/main/references/architecture/</loc>
+         <loc>https://docs.pqcodepackage.org/latest/main/overview/choosing-implementation/</loc>
          <lastmod>2024-05-01</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://docs.pqcodepackage.org/latest/main/references/commands/</loc>
+         <loc>https://docs.pqcodepackage.org/latest/main/overview/mlkem/</loc>
          <lastmod>2024-05-01</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://docs.pqcodepackage.org/latest/main/references/roadmap/</loc>
+         <loc>https://docs.pqcodepackage.org/latest/main/overview/pqca/</loc>
          <lastmod>2024-05-01</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://docs.pqcodepackage.org/latest/main/tutorials/</loc>
-         <lastmod>2024-05-01</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://docs.pqcodepackage.org/latest/main/tutorials/tutorial-1/</loc>
-         <lastmod>2024-05-01</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://docs.pqcodepackage.org/latest/main/tutorials/tutorial-2/</loc>
-         <lastmod>2024-05-01</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://docs.pqcodepackage.org/latest/main/tutorials/tutorial-3/</loc>
+         <loc>https://docs.pqcodepackage.org/latest/main/overview/purpose/</loc>
          <lastmod>2024-05-01</lastmod>
          <changefreq>daily</changefreq>
     </url>
