@@ -1,3 +1,4 @@
+<!-- SPDX-License-Identifier: CC-BY-4.0 -->
 # Reporting a Bug
 
 To report a bug, submit an issue in our public issue trackers on Github.

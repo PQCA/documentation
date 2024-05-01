@@ -1,3 +1,4 @@
+<!-- SPDX-License-Identifier: CC-BY-4.0 -->
 # Welcome to the documentation template
 
 This repository serves as a template for creating documentation for projects. The template utilizes MkDocs (documentation at [mkdocs.org](https://www.mkdocs.org)) and the theme Material for MkDocs (documentation at [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/)). Material adds a number of extra features to MkDocs, and repositories can take advantage of the theme's [Insiders](https://squidfunk.github.io/mkdocs-material/insiders/) capabilities.
