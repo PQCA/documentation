@@ -1,3 +1,6 @@
+#
+# SPDX-License-Identifier: CC-BY-4.0
+#
 <!--  Thanks for sending a pull request! -->
 
 ## Proposed changes

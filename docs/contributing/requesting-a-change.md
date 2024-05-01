@@ -1,3 +1,4 @@
+<!-- SPDX-License-Identifier: CC-BY-4.0 -->
 # Requesting a Change
 
 Pq-code-package highly values every idea or contribution from our community, and

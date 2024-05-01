@@ -1,3 +1,6 @@
+#
+# SPDX-License-Identifier: Apache-2.0
+#
 site_name: PQ Code Package
 site_url: https://docs.pqcodepackage.org/latest/
 repo_name: pq-code-package/documentation
@@ -83,30 +86,26 @@ extra:
     provider: mike
 nav:
   - Introduction: index.md
-  - Concepts:
-    - Concept 1: concepts/concept-1.md
-    - Concept 2: concepts/concept-2.md
-    - Concept 3: concepts/concept-3.md
-  - Getting Started:
-    - Installation: getting-started/installation.md
-    - Running: getting-started/running.md
-  - Tutorials:
-    - Introduction: tutorials/index.md
-    - Tutorial 1: tutorials/tutorial-1.md
-    - Tutorial 2: tutorials/tutorial-2.md
-    - Tutorial 3: tutorials/tutorial-3.md
-  - Guides:
-    - Operations: guides/operations.md
-    - Developers: guides/developers.md
-    - Upgrading: guides/upgrading.md
-  - References:
-    - Architecture: references/architecture.md
-    - Commands: references/commands.md
-    - Roadmap: references/roadmap.md
+  - Overview:
+    - About the PQCA: overview/pqca.md
+    - Purpose of pq-code-package: overview/purpose.md
+    - Background to ML-KEM: overview/mlkem.md
+    - Choosing an implementation: overview/choosing-implementation.md
+  - Algorithm Implementations:
+    - List of algorithms and characteristics: implementations/index.md
+    - ML-KEM generic C implementation: implementations/mlkem-c-generic.md
+    - ML-KEM optimized C (embedded): implementations/mlkem-c-embedded.md
+    - ML-KEM optimized C (aarch64): implementations/mlkem-c-aarch64.md
+    - ML-KEM libjade (jasmin): implementations/mlkem-libjade.md
+    - ML-KEM libcrux (rust): implementations/mlkem-rust-libcrux.md
   - Contributing:
+    - Charter: contributing/charter.md
+    - Code of Conduct: contributing/code-of-conduct.md
     - How to Contribute: contributing/how-to-contribute.md
     - Reporting a Bug: contributing/reporting-a-bug.md
+    - Reporting a Security Issue: contributing/reporting-a-security-issue.md
     - Requesting a Change: contributing/requesting-a-change.md
-    - Asking a Question: contributing/asking-a-question.md
+    - Getting Help or Chat: contributing/asking-a-question.md
+    - Technical Steering Committee: contributing/tsc.md
   - FAQs: faqs.md
   - Glossary: glossary.md
