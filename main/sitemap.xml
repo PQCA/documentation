@@ -2,112 +2,142 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://docs.pqcodepackage.org/latest/main/</loc>
-         <lastmod>2024-03-12</lastmod>
+         <lastmod>2024-05-01</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.pqcodepackage.org/latest/main/faqs/</loc>
-         <lastmod>2024-03-12</lastmod>
+         <lastmod>2024-05-01</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.pqcodepackage.org/latest/main/glossary/</loc>
-         <lastmod>2024-03-12</lastmod>
+         <lastmod>2024-05-01</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.pqcodepackage.org/latest/main/concepts/concept-1/</loc>
-         <lastmod>2024-03-12</lastmod>
+         <lastmod>2024-05-01</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.pqcodepackage.org/latest/main/concepts/concept-2/</loc>
-         <lastmod>2024-03-12</lastmod>
+         <lastmod>2024-05-01</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.pqcodepackage.org/latest/main/concepts/concept-3/</loc>
-         <lastmod>2024-03-12</lastmod>
+         <lastmod>2024-05-01</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.pqcodepackage.org/latest/main/contributing/asking-a-question/</loc>
-         <lastmod>2024-03-12</lastmod>
+         <lastmod>2024-05-01</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.pqcodepackage.org/latest/main/contributing/how-to-contribute/</loc>
-         <lastmod>2024-03-12</lastmod>
+         <lastmod>2024-05-01</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.pqcodepackage.org/latest/main/contributing/reporting-a-bug/</loc>
-         <lastmod>2024-03-12</lastmod>
+         <lastmod>2024-05-01</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.pqcodepackage.org/latest/main/contributing/requesting-a-change/</loc>
-         <lastmod>2024-03-12</lastmod>
+         <lastmod>2024-05-01</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.pqcodepackage.org/latest/main/getting-started/installation/</loc>
-         <lastmod>2024-03-12</lastmod>
+         <lastmod>2024-05-01</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.pqcodepackage.org/latest/main/getting-started/running/</loc>
-         <lastmod>2024-03-12</lastmod>
+         <lastmod>2024-05-01</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.pqcodepackage.org/latest/main/guides/developers/</loc>
-         <lastmod>2024-03-12</lastmod>
+         <lastmod>2024-05-01</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.pqcodepackage.org/latest/main/guides/operations/</loc>
-         <lastmod>2024-03-12</lastmod>
+         <lastmod>2024-05-01</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.pqcodepackage.org/latest/main/guides/upgrading/</loc>
-         <lastmod>2024-03-12</lastmod>
+         <lastmod>2024-05-01</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://docs.pqcodepackage.org/latest/main/implementations/</loc>
+         <lastmod>2024-05-01</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://docs.pqcodepackage.org/latest/main/implementations/mlkem-c-aarch64/</loc>
+         <lastmod>2024-05-01</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://docs.pqcodepackage.org/latest/main/implementations/mlkem-c-embedded/</loc>
+         <lastmod>2024-05-01</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://docs.pqcodepackage.org/latest/main/implementations/mlkem-c-generic/</loc>
+         <lastmod>2024-05-01</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://docs.pqcodepackage.org/latest/main/implementations/mlkem-libjade/</loc>
+         <lastmod>2024-05-01</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://docs.pqcodepackage.org/latest/main/implementations/mlkem-rust-libcrux/</loc>
+         <lastmod>2024-05-01</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.pqcodepackage.org/latest/main/references/architecture/</loc>
-         <lastmod>2024-03-12</lastmod>
+         <lastmod>2024-05-01</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.pqcodepackage.org/latest/main/references/commands/</loc>
-         <lastmod>2024-03-12</lastmod>
+         <lastmod>2024-05-01</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.pqcodepackage.org/latest/main/references/roadmap/</loc>
-         <lastmod>2024-03-12</lastmod>
+         <lastmod>2024-05-01</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.pqcodepackage.org/latest/main/tutorials/</loc>
-         <lastmod>2024-03-12</lastmod>
+         <lastmod>2024-05-01</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.pqcodepackage.org/latest/main/tutorials/tutorial-1/</loc>
-         <lastmod>2024-03-12</lastmod>
+         <lastmod>2024-05-01</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.pqcodepackage.org/latest/main/tutorials/tutorial-2/</loc>
-         <lastmod>2024-03-12</lastmod>
+         <lastmod>2024-05-01</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.pqcodepackage.org/latest/main/tutorials/tutorial-3/</loc>
-         <lastmod>2024-03-12</lastmod>
+         <lastmod>2024-05-01</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
