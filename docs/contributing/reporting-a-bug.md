@@ -1,6 +1,6 @@
 # Reporting a Bug
 
-To report a bug, submit an issue in our public [issue tracker].
+To report a bug, submit an issue in our public issue trackers on Github.
 
 When reporting an issue, please provide as much detail as possible about how to reproduce it. If possible, explain how to reproduce the issue. Details are very helpful. Please include the following information:
 
@@ -11,4 +11,4 @@ When reporting an issue, please provide as much detail as possible about how to 
 * Actual results
 * Expected results
 
-  [issue tracker]: https://github.com/hyperledger/_PROJECT_/issues
+

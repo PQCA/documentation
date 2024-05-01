@@ -8,10 +8,10 @@
     * review [How to Ask Technical Questions to Get Quality Answers](https://opensource.com/life/16/10/how-ask-technical-questions) prior to asking your question.
 
 ## Chat
-[Hyperledger’s Discord server](https://discord.gg/hyperledger) is the place to go for real-time chat about everything from quick help to involved discussions.
+[PQCA's Discord server](https://discord.com/invite/xyVnwzfg5R) is the place to go for real-time chat about everything from quick help to involved discussions.
 
-For general Hyperledger _PROJECT_ discussions, join the Discord server and visit #_PROJECT_.
+For general pq-code-package discussions, join the Discord server and visit #pqca-code-package.
 
 ## Mailing Lists
-The Hyperledger _PROJECT_ mailing list is hosted by the Hyperledger Foundation: https://lists.hyperledger.org. 
+The pq-code-package mailing lists are hosted by the pqca Foundation: https://pqca.org . 
 

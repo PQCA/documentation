@@ -9,7 +9,7 @@ body:
         _The more information you share, the faster we can help you._
         Prior to opening the issue, please make sure that you:
         - Use English (EN/US) to communicate.
-        - Search the [open issues](https://github.com/hyperledger-labs/documentation-template/issues) to avoid duplicating the issue.
+        - Search the open issues to avoid duplicating the issue.
 
   - type: textarea
     id: problem
@@ -17,7 +17,7 @@ body:
       label: What happened?
       description: |
         Please provide as much info as possible. Not doing so may result in your bug not being addressed in a timely manner.
-        If this matter is security related, please disclose it privately via security@hyperledger.org
+        If this matter is security related, please disclose it privately via TODO
     validations:
       required: true
 

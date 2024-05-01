@@ -3,7 +3,7 @@
 ## Ways to Contribute
 
 Contributions from the development community help improve the capabilities of
-Hyperledger _PROJECT_. These contributions are the most effective way to
+Pq-code-package. These contributions are the most effective way to
 make a positive impact on the project.
 
 Ways you can contribute:
@@ -17,7 +17,7 @@ Issues can be found in GitHub. Any unassigned items are probably still open. Whe
 
 ## The Commit Process
 
-Hyperledger _PROJECT_ is Apache 2.0 licensed and accepts contributions via GitHub pull requests. When contributing code, please follow these guidelines:
+Pq-code-package is Apache 2.0 licensed and accepts contributions via GitHub pull requests. When contributing code, please follow these guidelines:
 
 * Fork the repository and make your changes in a feature branch
 * Include unit and integration tests for any new features and updates to existing tests
@@ -32,6 +32,7 @@ enhancement. Here are some example scenarios:
 * If a pull request adds a feature but also fixes two bugs, the pull request should have three commits: one commit for the feature change and two commits for the bug fixes.
 * If a PR is opened with five commits that contain changes to fix a single issue, the PR should be rebased to a single commit.
 * If a PR is opened with several commits, where the first commit fixes one issue and the rest fix a separate issue, the PR should be rebased to two commits (one for each issue).
+* Do not squash your commits until the final stage of review. This helps reviewers and approvers understand what has changed between cycles.
 
 !!! important
     Your pull request should be rebased against the current master branch. Do not merge the current master branch in with your topic branch. Do not use the Update Branch button provided by GitHub on the pull request page.
@@ -53,7 +54,7 @@ Your commit email address must match your GitHub email address. For more informa
 A pull request cannot merged until it has passed these status checks:
 
 * The build must pass all checks
-* The PR must be approved by at least two reviewers without any
+* The PR must be approved by at least one reviewer without any
   outstanding requests for changes
 
 ## Inclusive Language
@@ -64,4 +65,4 @@ A pull request cannot merged until it has passed these status checks:
 - We suggest to refer to [Microsoft bias free writing guidelines](https://learn.microsoft.com/en-us/style-guide/bias-free-communication) and [Google inclusive doc writing guide](https://developers.google.com/style/inclusive-documentation) as starting points.
 
 ## Credits
-This document is based on [Hyperledger Sawtooth's Contributing documentation](https://github.com/hyperledger/sawtooth-docs/blob/main/community/contributing.md).
+This document has been adapted for pq-code-package based on based on [Hyperledger Sawtooth's Contributing documentation](https://github.com/hyperledger/sawtooth-docs/blob/main/community/contributing.md).
