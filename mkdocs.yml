@@ -88,7 +88,7 @@ nav:
   - Introduction: index.md
   - Overview:
     - About the PQCA: overview/pqca.md
-    - Purpose of pq-code-package: overview/purpose.md
+    - Purpose: overview/purpose.md
     - Background to ML-KEM: overview/mlkem.md
     - Choosing an implementation: overview/choosing-implementation.md
   - Algorithm Implementations:
@@ -99,13 +99,17 @@ nav:
     - ML-KEM libjade (jasmin): implementations/mlkem-libjade.md
     - ML-KEM libcrux (rust): implementations/mlkem-rust-libcrux.md
   - Contributing:
-    - Charter: contributing/charter.md
-    - Code of Conduct: contributing/code-of-conduct.md
     - How to Contribute: contributing/how-to-contribute.md
     - Reporting a Bug: contributing/reporting-a-bug.md
-    - Reporting a Security Issue: contributing/reporting-a-security-issue.md
     - Requesting a Change: contributing/requesting-a-change.md
     - Getting Help or Chat: contributing/asking-a-question.md
-    - Technical Steering Committee: contributing/tsc.md
+    - Repositories: contributing/repositories.md
+  - Security:
+    - Reporting a Security Issue: security/reporting-a-security-issue.md
+  - Governance:
+    - Charter: governance/charter.md
+    - Code of Conduct: governance/code-of-conduct.md
+    - Technical Steering Committee: governance/tsc.md
+    - Developer Certificate of Orgin (DCO): governance/dco.md
   - FAQs: faqs.md
   - Glossary: glossary.md

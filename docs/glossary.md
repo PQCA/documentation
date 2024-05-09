@@ -1,8 +1,7 @@
 <!-- SPDX-License-Identifier: CC-BY-4.0 -->
-**term**
 
-: definition
+**glossary**
 
-**term**
+: A list of definitions of terms used in this documentation.
 
-: definition
+

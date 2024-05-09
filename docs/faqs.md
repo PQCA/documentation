@@ -1,23 +1,11 @@
 <!-- SPDX-License-Identifier: CC-BY-4.0 -->
+
 # Frequently Asked Questions
 
-## Topic 1
 
-### Question 1 for Topic 1
 
-Answer
+## What is this section of the documentation for?
 
-### Question 2 for Topic 1
+This area will contain common FAQs in future
 
-Answer
-
-## Topic 2
-
-### Question 1 for Topic 2
-
-Answer
-
-### Question 2 for Topic 2
-
-Answer
 
