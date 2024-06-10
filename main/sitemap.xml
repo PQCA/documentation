@@ -1,117 +1,72 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-         <loc>https://docs.pqcodepackage.org/latest/main/</loc>
+         <loc>https://docs.pqca.org/latest/main/</loc>
          <lastmod>2024-06-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://docs.pqcodepackage.org/latest/main/faqs/</loc>
+         <loc>https://docs.pqca.org/latest/main/faqs/</loc>
          <lastmod>2024-06-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://docs.pqcodepackage.org/latest/main/glossary/</loc>
+         <loc>https://docs.pqca.org/latest/main/glossary/</loc>
          <lastmod>2024-06-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://docs.pqcodepackage.org/latest/main/contributing/asking-a-question/</loc>
+         <loc>https://docs.pqca.org/latest/main/contributing/asking-a-question/</loc>
          <lastmod>2024-06-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://docs.pqcodepackage.org/latest/main/contributing/how-to-contribute/</loc>
+         <loc>https://docs.pqca.org/latest/main/contributing/how-to-contribute/</loc>
          <lastmod>2024-06-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://docs.pqcodepackage.org/latest/main/contributing/reporting-a-bug/</loc>
+         <loc>https://docs.pqca.org/latest/main/contributing/reporting-a-bug/</loc>
          <lastmod>2024-06-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://docs.pqcodepackage.org/latest/main/contributing/repositories/</loc>
+         <loc>https://docs.pqca.org/latest/main/contributing/repositories/</loc>
          <lastmod>2024-06-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://docs.pqcodepackage.org/latest/main/contributing/requesting-a-change/</loc>
+         <loc>https://docs.pqca.org/latest/main/contributing/requesting-a-change/</loc>
          <lastmod>2024-06-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://docs.pqcodepackage.org/latest/main/governance/charter/</loc>
+         <loc>https://docs.pqca.org/latest/main/governance/charter/</loc>
          <lastmod>2024-06-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://docs.pqcodepackage.org/latest/main/governance/code-of-conduct/</loc>
+         <loc>https://docs.pqca.org/latest/main/governance/code-of-conduct/</loc>
          <lastmod>2024-06-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://docs.pqcodepackage.org/latest/main/governance/dco/</loc>
+         <loc>https://docs.pqca.org/latest/main/governance/dco/</loc>
          <lastmod>2024-06-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://docs.pqcodepackage.org/latest/main/governance/tsc/</loc>
+         <loc>https://docs.pqca.org/latest/main/governance/tac/</loc>
          <lastmod>2024-06-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://docs.pqcodepackage.org/latest/main/implementations/</loc>
+         <loc>https://docs.pqca.org/latest/main/overview/pqca/</loc>
          <lastmod>2024-06-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://docs.pqcodepackage.org/latest/main/implementations/mlkem-c-aarch64/</loc>
-         <lastmod>2024-06-10</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://docs.pqcodepackage.org/latest/main/implementations/mlkem-c-embedded/</loc>
-         <lastmod>2024-06-10</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://docs.pqcodepackage.org/latest/main/implementations/mlkem-c-generic/</loc>
-         <lastmod>2024-06-10</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://docs.pqcodepackage.org/latest/main/implementations/mlkem-libjade/</loc>
-         <lastmod>2024-06-10</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://docs.pqcodepackage.org/latest/main/implementations/mlkem-rust-libcrux/</loc>
-         <lastmod>2024-06-10</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://docs.pqcodepackage.org/latest/main/overview/choosing-implementation/</loc>
-         <lastmod>2024-06-10</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://docs.pqcodepackage.org/latest/main/overview/mlkem/</loc>
-         <lastmod>2024-06-10</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://docs.pqcodepackage.org/latest/main/overview/pqca/</loc>
-         <lastmod>2024-06-10</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://docs.pqcodepackage.org/latest/main/overview/purpose/</loc>
-         <lastmod>2024-06-10</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://docs.pqcodepackage.org/latest/main/security/reporting-a-security-issue/</loc>
+         <loc>https://docs.pqca.org/latest/main/security/reporting-a-security-issue/</loc>
          <lastmod>2024-06-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
