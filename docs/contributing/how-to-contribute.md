@@ -4,7 +4,7 @@
 ## Ways to Contribute
 
 Contributions from the development community help improve the capabilities of
-Pq-code-package. These contributions are the most effective way to
+pqca. These contributions are the most effective way to
 make a positive impact on the project.
 
 Ways you can contribute:
@@ -18,7 +18,7 @@ Issues can be found in GitHub. Any unassigned items are probably still open. Whe
 
 ## The Commit Process
 
-Pq-code-package is Apache 2.0 licensed and accepts contributions via GitHub pull requests. When contributing code, please follow these guidelines:
+pqca is Apache 2.0 licensed and accepts contributions via GitHub pull requests. When contributing code, please follow these guidelines:
 
 * Fork the repository and make your changes in a feature branch
 * Include unit and integration tests for any new features and updates to existing tests
@@ -66,4 +66,4 @@ A pull request cannot merged until it has passed these status checks:
 - We suggest to refer to [Microsoft bias free writing guidelines](https://learn.microsoft.com/en-us/style-guide/bias-free-communication) and [Google inclusive doc writing guide](https://developers.google.com/style/inclusive-documentation) as starting points.
 
 ## Credits
-This document has been adapted for pq-code-package based on based on [Hyperledger Sawtooth's Contributing documentation](https://github.com/hyperledger/sawtooth-docs/blob/main/community/contributing.md).
+This document has been adapted for pqca based on based on [Hyperledger Sawtooth's Contributing documentation](https://github.com/hyperledger/sawtooth-docs/blob/main/community/contributing.md).

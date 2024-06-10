@@ -1,10 +1,10 @@
 #
 # SPDX-License-Identifier: Apache-2.0
 #
-site_name: PQ Code Package
-site_url: https://docs.pqcodepackage.org/latest/
-repo_name: pq-code-package/documentation
-repo_url: https://github.com/pq-code-package/documentation
+site_name: PQCA
+site_url: https://docs.pqca.org/latest/
+repo_name: pqca/documentation
+repo_url: https://github.com/pqca/documentation
 theme:
   name: material
   custom_dir: overrides
@@ -88,16 +88,6 @@ nav:
   - Introduction: index.md
   - Overview:
     - About the PQCA: overview/pqca.md
-    - Purpose: overview/purpose.md
-    - Background to ML-KEM: overview/mlkem.md
-    - Choosing an implementation: overview/choosing-implementation.md
-  - Algorithm Implementations:
-    - Implementations and characteristics: implementations/index.md
-    - ML-KEM generic C implementation: implementations/mlkem-c-generic.md
-    - ML-KEM optimized C (embedded): implementations/mlkem-c-embedded.md
-    - ML-KEM optimized C (aarch64): implementations/mlkem-c-aarch64.md
-    - ML-KEM libjade (jasmin): implementations/mlkem-libjade.md
-    - ML-KEM libcrux (rust): implementations/mlkem-rust-libcrux.md
   - Contributing:
     - How to Contribute: contributing/how-to-contribute.md
     - Reporting a Bug: contributing/reporting-a-bug.md
@@ -109,7 +99,7 @@ nav:
   - Governance:
     - Charter: governance/charter.md
     - Code of Conduct: governance/code-of-conduct.md
-    - Technical Steering Committee: governance/tsc.md
+    - Technical Advisory Committee: governance/tac.md
     - Developer Certificate of Orgin (DCO): governance/dco.md
   - FAQs: faqs.md
   - Glossary: glossary.md

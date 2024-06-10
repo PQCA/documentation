@@ -3,11 +3,8 @@
 
 !!! info "Select one of the sections using the nav-bar at the top, or top-left."
 
-The PQ Code Package project is a new open source project that aims to build high-assurance software implementations of standards-track post-quantum cryptography algorithms. The PQCP is a project within the Linux Foundation as part of the Post-Quantum Cryptography Alliance.
+_The alliance seeks to address cryptographic security challenges posed by quantum computing by producing high-assurance software implementations of standardized algorithms and supporting the continued development and standardization of new post-quantum algorithms with software for evaluation and prototyping._
 
-Our initial focus in the first phase of the project will be on the Module-Lattice-Based Key Encapsulation Mechanism (ML-KEM) algorithm. As the project grows, we intend to also produce implementations for ML-DSA and SLH-DSA, as well as other standards-track post-quantum algorithms.
+- https://pqca.org/
 
-We aim for implementations produced by the project to have assurances given either as a result of external audits or as a result of formal verification methods (or both).
-
-
-
+PQCA is a Linux Foundation project.

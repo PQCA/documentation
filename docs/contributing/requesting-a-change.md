@@ -1,7 +1,7 @@
 <!-- SPDX-License-Identifier: CC-BY-4.0 -->
 # Requesting a Change
 
-Pq-code-package highly values every idea or contribution from our community, and
+pqca highly values every idea or contribution from our community, and
 we kindly ask you to take the time to read the following guidelines before 
 submitting your change request in our public issue trackers. This will help us 
 better understand the proposed change, and how it will benefit the community.
@@ -76,7 +76,7 @@ be inferred from the title.
 
 Before describing your idea, you can provide additional context for us to
 understand what you are trying to achieve. Explain the circumstances
-in which you're using pq-code-package, and what you _think_ might be
+in which you're using pqca, and what you _think_ might be
 relevant. Don't write about the change request here.
 
 !!! success "Why we need this"
@@ -85,7 +85,7 @@ relevant. Don't write about the change request here.
 ### Description
 
 Next, provide a detailed and clear description of your idea. Explain why your 
-idea is relevant to pq-code-package and must be implemented here, and not
+idea is relevant to pqca and must be implemented here, and not
 in one of its dependencies.
 
 -   __Explain the <u>what</u>, not the <u>why</u>__ – don't explain
@@ -139,14 +139,14 @@ elsewhere, please provide an example by showcasing
 it and describing how it was implemented and incorporated.
 
 !!! success "Why we need this"
-    Illustrations and visuals can help us maintainers better understand and envision your idea. Screenshots, sketches, or mockups can create an additional level of detail and clarity that text alone may not be able to convey. Also, seeing how your idea has been implemented in other projects can help us understand its potential impact and feasibility in pq-code-package, which helps us maintainers evaluate and triage change requests.
+    Illustrations and visuals can help us maintainers better understand and envision your idea. Screenshots, sketches, or mockups can create an additional level of detail and clarity that text alone may not be able to convey. Also, seeing how your idea has been implemented in other projects can help us understand its potential impact and feasibility in pqca, which helps us maintainers evaluate and triage change requests.
 
 ### Checklist
 
 Thanks for following the change request guide and creating a high-quality 
 change request. This section ensures that you have read this guide and have
 worked to your best knowledge to provide us with every piece of information to 
-review your idea for pq-code-package.
+review your idea for pqca.
 
 __We'll take it from here.__
 

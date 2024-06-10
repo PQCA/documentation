@@ -1,7 +1,7 @@
 <!-- SPDX-License-Identifier: CC-BY-4.0 -->
 # Welcome to the documentation
 
-This repository manages the documentation for the pq-code-package project.
+This repository manages the documentation for the pqca project.
 
 ## Prerequisites
 
@@ -29,7 +29,7 @@ mkdocs serve
 
 ## CI/Code
 
-Github actions are used to build and publish the site to https://documentation.pqcodepackage.org
+Github actions are used to build and publish the site to https://documentation.pqca.org
 
 **NOTE** At this time there is NO PR verification, so please test locally to avoid a broken site.
 
